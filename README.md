@@ -1,4 +1,4 @@
-![logo](https://github.com/engrhassanraza/engrhassanraza/blob/main/Github.jpg)
+![logo](https://github.com/engrhassanraza/Engr-Mohammad-Hassan-Raza/blob/53f0414fe4b8ed055652763eb74b71bcaa8f53cc/Github.jpg)
 <h1 align="center">Hi 👋, I'm Engr. Mohammad Hassan Raza</h1>
 <h3 align="center">A passionate Computer Systems Engineer from Pakistan.</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400" align="right">
